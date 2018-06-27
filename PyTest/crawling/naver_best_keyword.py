@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import time
 
 
-
 while True:
     res = requests.get('http://www.naver.com')
     assert res.status_code is 200
