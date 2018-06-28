@@ -9,5 +9,6 @@ encoding//blockchain/test_blockchain.py=utf-8
 encoding//blockchain/transactions.py=utf-8
 encoding//crawling/daum_best_keyword.py=utf-8
 encoding//crawling/naver_best_keyword.py=utf-8
+encoding//fileIO/fileIO.py=utf-8
 encoding//sample/test.py=utf-8
 encoding/utmk.py=utf-8
